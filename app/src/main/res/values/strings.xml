@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">sem8project</string>
+    <string name="sem8project">sem8project</string>
+    <string name="login">Login</string>
+    <string name="not_registered_register_now">Not Registered ? Register Now !</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="already_registered_login_now">Already Registered ? Login Now !</string>
+    <string name="change_password">Change Password</string>
+    <string name="logout">Logout</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+    <string name="add_your_babies_details_here">Add your Babies Details Here</string>
+    <string name="babys_name">Babys Name</string>
+    <string name="girl">girl</string>
+    <string name="Boy">Boy</string>
+    <string name="submit_birth_date">Submit Birth Date</string>
+    <string name="register_baby_here">Register Baby Here</string>
+    <string name="submit_babies_details">Submit Babies Details</string>
+</resources>
